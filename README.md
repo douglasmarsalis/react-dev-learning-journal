@@ -1,10 +1,30 @@
-# React.dev Learning Journal
+# 📘 React.dev Learning Journal
 
-To help solidify my knowledge of React, I am going through the docs step by step and documenting my process. At the same time, I am building full React projects to also help with my knowlege concentrating on React, JSX, TailwindCSS, and Next.js.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#-license)
+![React](https://img.shields.io/badge/React-18-61dafb?logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-5.0-646cff?logo=vite&logoColor=yellow)
+![npm](https://img.shields.io/badge/npm->=9.0.0-red?logo=npm)
+![Last Commit](https://img.shields.io/github/last-commit/douglasmarsalis/react-dev-learning-journal)
 
-This repo constains my progress through the [React.dev Learn](https://react.dev/learn) section. [X] indicates that task has been completed.
+## 📖 About
 
-## Get Started (This section is mainly reading only)
+This repository is my **learning journal** as I work through the official  
+[React.dev Learn Section](https://react.dev/learn). [X] indicates that task has been completed.
+
+The goal is to practice **vanilla React** concepts — components, props, state,  
+context, effects — and then apply them in capstone projects like  
+**Thinking in React** and **Tic Tac Toe**.  
+
+I’m keeping everything organized by lessons, with one React component per lesson,  
+so progress is clear and easy to follow.
+
+This repo is part of my nightly React practice routine (2–3 hours each night)
+combined with project-based learning during the day.
+
+
+## 🚀 Lessons Progress
+
+### Get Started (This section is mainly reading only)
 ### Quick Start
 - [] 01 - Tic Tac Toe 
 - [] 02 - Thinking in React
@@ -25,7 +45,7 @@ This repo constains my progress through the [React.dev Learn](https://react.dev/
 - [] 03 - Incremental Adoption
 - [] 04 - Debugging and Troubleshooting
 
-## Learn React (Lessons)
+### Learn React (Lessons)
 - [] 01 - Describibg the UI
 - [] 02 - Adding Interactivity
 - [] 03 - Managing State
@@ -34,6 +54,38 @@ This repo constains my progress through the [React.dev Learn](https://react.dev/
 - [] 06 - Tic Tac Toe
 
 
+## 🛠️ Getting Started
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/douglasmarsalis/react-dev-learning-journal.git
+cd react-dev-learning-journal
+npm install
+npm run dev
+Then open http://localhost:5173 in your browser.
 
 
+📜 License
 
+MIT License
+
+Copyright (c) 2025 Douglas Marsalis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
