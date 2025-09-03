@@ -25,9 +25,9 @@ combined with project-based learning during the day.
 ## 🚀 Lessons Progress
 
 ### Get Started (This section is mainly reading only)
-### Quick Start
-- [] 01 - Tic Tac Toe 
-- [] 02 - Thinking in React
+- [X] 01 - Quick Start
+- [] 02 - Tic Tac Toe 
+- [] 03 - Thinking in React
 
 ### Installation
 - [] 01 - Creating a React App
